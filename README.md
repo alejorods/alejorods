@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alejandro 👋</h1>
-<h3 align="center">A Data Scientist interested in theoretical physics and</h3>
-<h3 align="center">a theoretical physicist interested in data science</h3>
+<!--<h3 align="center">A Data Scientist interested in theoretical physics and</h3>-->
+<!--<h3 align="center">a theoretical physicist interested in data science</h3>-->
 
 My name is Alejandro Rodríguez. I'm from Buenos Aires, Argentina 🇦🇷. <br>
 I am very interested in AI and Machine Learning 💻🧠. <br>
